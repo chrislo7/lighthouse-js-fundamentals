@@ -1,4 +1,5 @@
-var temperature = 30;
+var temperature = 60;
+var raining = false;
 
 if (temperature < 0) {
   console.log("Make sure you pick out a scarf!");
@@ -8,4 +9,7 @@ if (temperature < 0) {
   console.log("Short sleeves are fine.");
 }
 
+
+
 console.log("Now you're ready to go outside!");
+
